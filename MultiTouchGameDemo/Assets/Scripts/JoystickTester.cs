@@ -3,6 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
+/*
+ *      TODO:   - create player class
+ *              - have player be moved by joystick
+ *              - create class to control rotation of the camera
+ *              - add code to pick up mrked items (feather, water lily, black stick)
+ *              - 
+ * 
+ */ 
+
 [RequireComponent(typeof(TextMeshProUGUI))]
 public class JoystickTester : MonoBehaviour
 {
